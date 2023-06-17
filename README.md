@@ -1,4 +1,4 @@
-### <div align="center">Hi there 👋, my name is Valery 👨‍💻 working remotely since 2022 </div>  
+### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Valery+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+)](https://git.io/typing-svg) </div>  
 
 
 
