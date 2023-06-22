@@ -11,6 +11,3 @@
 ## LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ValeryIvlev&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ValeryIvlev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
